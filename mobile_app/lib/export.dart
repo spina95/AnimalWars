@@ -1,0 +1,17 @@
+export 'main.dart';
+export 'pages/home/homepage.dart';
+export 'pages/imageView/imageViewPage.dart';
+export 'pages/login/login.dart';
+export 'pages/registrazione/registrazione1.dart';
+export 'pages/registrazione/registrazione2.dart';
+export 'api/api.dart';
+export 'api/models/profile.dart';
+export 'api/models/imagePost.dart';
+export 'api/models/tag.dart';
+export 'extra/conversions.dart';
+export 'extra/colors.dart';
+export 'extra/widgets.dart';
+export 'pages/search/searchPage.dart';
+export 'pages/user/userPage.dart';
+export 'pages/discover/discoverPage.dart';
+export 'pages/postImage/postImage.dart';
